@@ -2,6 +2,8 @@
 
 This is a simple todo app built with Vite React, showcasing various React hooks and concepts such as `useState`, `useEffect`, and the Context API. This app allows you to add, edit, complete, and delete tasks.
 
+# [Click Here to see Live Preview ](https://shubhamkolape.github.io/Todo-with-Context-API/)
+
 ![Image](./contextapi.png)
 
 ## Features
